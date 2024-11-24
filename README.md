@@ -1,8 +1,14 @@
 # Learnings
 
-#### Distributed Version Control System 
-- [Git](/pages/git.md) - Global Information Tracker / Goddamn Idiotic Truckload of sh\*t
-  > Git is a distributed version control software
+#### Version Control System 
+
+#### Centralized
+- [SVN](https://subversion.apache.org/) - Apache Subversion
+  > SVN is a centralized version control system
+
+#### Distributed
+- [Git](/pages/git.md) - Global Information Tracker
+  > Git is a distributed version control system
 - [Github](/pages/github.md)
   > Hosting service for software projects using Git
 
